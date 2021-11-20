@@ -16,6 +16,14 @@ def fibo(n): # here we define fibonacci series upto n
     
     while a < n: #this while loop continue if value of a <n
         print (a,end='')
-        a,b = b, a+b
+        a,b = b, a+b #formula to calculate fibonacci series 
         print()
-fibo(2000)        
+
+
+
+fibo(2000) #here initilizing the value of n as 2000  
+
+
+#reference https://docs.python.org/release/3.9.7/tutorial/controlflow.html#defining-functions
+
+

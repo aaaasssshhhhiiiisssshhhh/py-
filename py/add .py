@@ -1,16 +1,16 @@
 #taking direct values 
 
-a = 1 
-b = 1 
-c = a+b
-print ('sum:',c)
+a = 1 #initializing the value of a 
+b = 1 #initializing the vlaue of b
+c = a+b #aading two number 
+print ('sum:',c) #display the sum value 
 
 
 #taking values from user 
 
-x = int (input("enter first value:"))
-y = int ( input("enter second value:"))
+x = int (input("enter first value:")) #taking first value from user
+y = int ( input("enter second value:")) # taking second value from user
 
-sum = x+y 
+sum = x+y #adding two numbers
 
-print("the sum is :", sum)
+print("the sum is :", sum) #display the sum value 
