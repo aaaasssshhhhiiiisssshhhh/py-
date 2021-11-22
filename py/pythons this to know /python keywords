@@ -1,0 +1,32 @@
+
+🤘
+   .........here we learn about keywords........
+
+
+python have some set of already define keywords which cannot used as variables , functions or any set of identifiers. 
+
+so keywords are unique defined terms or may say reserved word in python..
+
+keywords  are case sensitive so you have to write them as they are
+
+🔠 some of the keywords which begins with capital letters in python are : 
+ True 
+ Flase 
+ None 
+
+beside these all are lowercase of small letters.
+
+
+keywords in python are listed below:
+
+False	await	  else	    import   	pass
+None	break	  except	in      	raise
+True	class	  finally	is	        return
+and	   continue	  for	    lambda	    try
+as	    def	      from	    nonlocal	while
+assert	del	      global	not	        with
+async	elif	  if	    or	        yield
+
+
+
+
