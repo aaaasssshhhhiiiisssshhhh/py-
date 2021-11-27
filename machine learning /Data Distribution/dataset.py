@@ -16,7 +16,7 @@ import numpy
 
 values = numpy.random.uniform (0.0, 5.0, 10) #here we create 10 random floating point number form 0 to 5.
 
-print ("10 random floating point number from 0 to 10 are=", values)
+print ("10 random floating point number from 0 to 5 are=", values)
 
 
 #output = 10 random floating point number from 0 to 10 are= [4.34873642 1.62014346 0.62717136 3.617578   3.91833963 4.45850834 3.88071574 0.49087419 0.60267731 1.70242934]
