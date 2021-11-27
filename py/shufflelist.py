@@ -12,3 +12,4 @@ nums = [1,2,3,4,5,6]
 print("original list:", nums )
 print("\n shuffle the elements of the said list :")
 print (shuffle_list(nums))    
+
